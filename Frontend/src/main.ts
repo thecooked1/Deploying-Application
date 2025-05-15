@@ -1,5 +1,5 @@
 
-const BACKEND_IP_PLACEHOLDER = "146.255.226.194"; 
+const BACKEND_IP_PLACEHOLDER = "localhost"; 
 const BACKEND_PORT = 3001; 
 const BACKEND_API_GET_URL = `http://${BACKEND_IP_PLACEHOLDER}:${BACKEND_PORT}/api/get-answer`;
 
